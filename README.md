@@ -1,6 +1,6 @@
 ## Name: kabilan T
 ## Reg.No: 212222230059
-## Soil moisture sensor interfacing with IoT controller and uploading the data in the cloud.
+## EX NO 5 Soil moisture sensor interfacing with IoT controller and uploading the data in the cloud.
 
 # AIM:
 To upload the Soil-moisture sensor value in the Things mate using Arduino controller.
